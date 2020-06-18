@@ -1,0 +1,3 @@
+[2019-5-23 01:43:35] layer "- 55 99983-3674 - marisapaes@gmail.com - Santa Maria - RS": Expected end of input but "-" found.
+[2019-5-23 01:39:32] layer "img2.jog8": Unsupported extension: jog
+[2019-5-23 01:39:32] layer "img2.jog8": Invalid quality: 80
